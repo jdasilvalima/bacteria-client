@@ -74,3 +74,7 @@ export default {
 		clearScreen: false
 	}
 };
+
+
+// docker build -t svelte-bact .
+// docker run -p 8888:80 svelte-bact
